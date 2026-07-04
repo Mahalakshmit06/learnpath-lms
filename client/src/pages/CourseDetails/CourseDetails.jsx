@@ -2,7 +2,7 @@ import CourseHero from "../../components/courseDetails/CourseHero";
 import CourseOverview from "../../components/courseDetails/CourseOverview";
 import InstructorCard from "../../components/courseDetails/InstructorCard";
 import EnrollmentCard from "../../components/courseDetails/EnrollmentCard";
-import WhatYouWillLearn from "../../components/courseDetails/Temp";
+import WhatYouWillLearn from "../../components/courseDetails/WhatYouWillLearn";
 import Curriculum from "../../components/courseDetails/Curriculum";
 import Requirements from "../../components/courseDetails/Requirements";
 import Reviews from "../../components/courseDetails/Reviews";
